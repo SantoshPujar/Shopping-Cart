@@ -1,0 +1,27 @@
+.container{
+    border: 1px solid;
+    width: 18%;
+    height: 350px;
+    display: inline-block;
+    margin: 10px;
+}
+.imgContainer{
+    margin: 10px;
+    height: 250px;
+}
+
+.image{
+    height: 250px;
+}
+
+.label{
+    text-align: center;
+}
+.cartIcon{
+ 
+    width:auto;
+    height: 50px;
+}
+.cartImage{
+    height: 50px;
+}
